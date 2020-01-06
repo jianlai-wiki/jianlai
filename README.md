@@ -1,5 +1,5 @@
-# 剑来
-剑来世界 中文百科
+# 剑来 烽火戏诸侯
+剑来 百科
 
 
 ## [人物介绍](https://github.com/jianlai-wiki/jianlai/tree/master/person) 
